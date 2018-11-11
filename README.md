@@ -131,9 +131,19 @@ ENTER</BR>
 1803 (latest oct. 2018)
 
 
+<h3>Demo</h3>
+
+Click on the image below to see the video demonstration of the scripts.
+
+![Alt text](https://github.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/blob/master/img/main_win10.png "SnapChat_Leak_2018-by-Jonny-Banana")
+
+
 <h3>Conclusions...</h3>
 
 This fast script can be very useful in cases like the one explained above.</BR>
 The script is not particularly short, this because I did not feel the need, and it is not even hidden, but as I said also this was done on purpose, so as to allow you to see the screen and understand so if the script worked, as it is not a script dedicated to attacks but serves a specific purpose.
 
 The two inject.bin files were created specifically for Italian keyboards, if you have other keyboards you can copy the script and use the ducktoolkit https://ducktoolkit.com/encoder/ to create a binary file for your keyboard.
+
+
+
