@@ -17,7 +17,7 @@ As you can see in the first script I set first the initial delay to 2000 ms, but
 
 After disabling the UAC control, note that I have used only commands that disable the various functions from interface GUAR, and without closing the final window this to allow you to see if the script worked even if you were not careful ....
 
-Once disabled The UAC was enough to type the string "virus pro" in the windows bar, I chose "virus pro" as it can work both with my native language (virus protection) and in English (virus protection) thus making it multilingual script, also because in Italy it is so much whether these things affect 100 people ....
+Once disabled The UAC was enough to type the string "virus pro" in the windows bar, I chose "virus pro" as it can work both with my native language (protezione virus) and in English (virus protection) thus making it multilingual script, also because in Italy it is so much whether these things affect 100 people ....
 
 DELAY 2000</BR>
 REM  first disable UAC</BR>
@@ -135,11 +135,9 @@ ENTER</BR>
 
 Click on the image below to see the video demonstration of the scripts.
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/master/img/video.JPG "Rubber-Ducky_Disable_W10-Defender_Technician-Edition-by-Jonny-Banana")
-
 <a href="https://www.youtube.com/watch?v=uJD7qPVojz8
 " target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/master/img/video.JPG" 
-alt="$MFT" width="600" height="450" border="100" /></a> 
+alt="Rubber-Ducky_Disable_W10-Defender_Technician-Edition" width="600" height="450" border="100" /></a> 
 
 
 <h3>Conclusions...</h3>
