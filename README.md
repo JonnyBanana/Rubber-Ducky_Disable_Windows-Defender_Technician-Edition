@@ -13,6 +13,12 @@ The Scripts are two: Killer and Healer, the first disables and the second of cou
 
 <h2>Killer</h2>
 
+As you can see in the first script I set first the initial delay to 2000 ms, but I suggest to increase up to 5000/10000 ms according to the victimized computer, the more powerful the computer is and the less it will read the DUCKY drivers when it comes attached to the victim computer for the first time.
+
+After disabling the UAC control, note that I have used only commands that disable the various functions from interface GUAR, and without closing the final window this to allow you to see if the script worked even if you were not careful ....
+
+Once disabled The UAC was enough to type the string "virus pro" in the windows bar, I chose "virus pro" as it can work both with my native language (virus protection) and in English (virus protection) thus making it multilingual script, also because in Italy it is so much whether these things affect 100 people ....
+
 DELAY 2000</BR>
 REM  first disable UAC</BR>
 CONTROL ESCAPE</BR>
@@ -117,3 +123,19 @@ TAB</BR>
 DELAY 200</BR>
 ENTER</BR>
 
+
+<h3>Tested Builds</h3>
+
+1803 (latest oct. 2018)
+
+
+
+<h3>Killer</h3>
+
+As you can see in the first script I set first the initial delay to 2000 ms, but I suggest to increase up to 5000/10000 ms according to the victimized computer, the more powerful the computer is and the less it will read the DUCKY drivers when it comes attached to the victim computer for the first time.
+
+After disabling the UAC control, note that I have used only commands that disable the various functions from interface GUAR, and without closing the final window this to allow you to see if the script worked even if you were not careful ....
+
+Once disabled The UAC was enough to type the string "virus pro" in the windows bar, I chose "virus pro" as it can work both with my native language (virus protection) and in English (virus protection) thus making it multilingual script, also because in Italy it is so much whether these things affect 100 people ....
+
+<h3>Killer</h3>
