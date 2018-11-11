@@ -1,7 +1,7 @@
 # Rubber-Ducky_Disable_W10-Defender_Technician-Edition
 A quickly script for Rubber Ducky to disable w10 defender on large scale
 
-![Alt text](https://github.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/blob/master/img/BATH213-walking-dead-rubber-duck%20(1).JPG "SnapChat_Leak_2018-by-Jonny-Banana")
+![Alt text](https://github.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/blob/master/img/BATH213-walking-dead-rubber-duck%20(1).JPG "Rubber-Ducky_Disable_W10-Defender_Technician-Edition-by-Jonny-Banana")
 
 In my activities as a technician I have to format many computers during the month, and as many refuse to buy the license </br>
 i have to use a lot of crack (although I do not recommend every time, but the money they pull at the time ...).
@@ -135,7 +135,7 @@ ENTER</BR>
 
 Click on the image below to see the video demonstration of the scripts.
 
-![Alt text](https://github.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/blob/master/img/main_win10.png "SnapChat_Leak_2018-by-Jonny-Banana")
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/master/img/video.JPG "Rubber-Ducky_Disable_W10-Defender_Technician-Edition-by-Jonny-Banana")
 
 
 <h3>Conclusions...</h3>
