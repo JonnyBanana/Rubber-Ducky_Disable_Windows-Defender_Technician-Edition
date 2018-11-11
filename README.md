@@ -137,6 +137,10 @@ Click on the image below to see the video demonstration of the scripts.
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/master/img/video.JPG "Rubber-Ducky_Disable_W10-Defender_Technician-Edition-by-Jonny-Banana")
 
+<a href="https://www.youtube.com/watch?v=vYL9UQRwUZc&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/vYL9UQRwUZc/0.jpg" 
+alt="$MFT" width="600" height="450" border="100" /></a> 
+
 
 <h3>Conclusions...</h3>
 
