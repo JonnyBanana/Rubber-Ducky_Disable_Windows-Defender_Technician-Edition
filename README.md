@@ -128,7 +128,7 @@ ENTER</BR>
 
 <h3>Tested Builds</h3>
 
-1803 (latest oct. 2018)
+Windows 10 1803 (latest oct. 2018)
 
 
 <h3>Demo</h3>
@@ -138,6 +138,14 @@ Click on the image below to see the video demonstration of the scripts.
 <a href="https://www.youtube.com/watch?v=uJD7qPVojz8
 " target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/master/img/video.JPG" 
 alt="Rubber-Ducky_Disable_W10-Defender_Technician-Edition" width="600" height="450" border="100" /></a> 
+
+</BR>
+
+<h3>v2 e v3 (for Legacy OS)</h3>
+
+I then created two further optimized versions (v2 and v3), which also work for legacy systems (Vista or Earlier), they are also scripts that use powershell or cmd terminal and are much shorter and consequently much faster.
+
+Tested on Latest Windows 10 Build (Jun 2019) and on Windows 7 Sp3
 
 
 <h3>Conclusions...</h3>
